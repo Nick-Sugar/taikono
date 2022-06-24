@@ -1,0 +1,14 @@
+{
+    "title" : "シャルル",
+    "src":"musics/syaryry.ogg",
+    "Nodos": [
+        {
+            "type": 0,
+            "time": 0
+        },
+        {
+            "type": 1,
+            "time": 1
+        }
+    ]
+}
